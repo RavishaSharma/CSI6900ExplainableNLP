@@ -7,7 +7,7 @@ Exploring LIME and SHAP for a multiclass text classifier to predict emotions
 
 - SHAPImplementationAndExp1 - This notebook shows the implementation for SHAP text explainer. It also includes the results of first Experiment for SHAP.
 
-- Experiment2 - This notebook shows the results for the second experiment i.e 30 graphs for SHAP and LIME each. This might not get displayed on github since the filesize is very large but it should work fine ondownloading.
+- Experiment2 - This notebook shows the results for the second experiment i.e 30 graphs for SHAP and LIME each. This might not get displayed on github since the file size is very large but it should work fine on downloading.
 
 - dataset -> NewData.csv - The original dataset used to train and test the model 
 
